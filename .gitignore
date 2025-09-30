@@ -1,0 +1,40 @@
+# ========================
+# Project Pistachio GAN
+# ========================
+
+# Data (ignored, only local use)
+data/
+*.jpg
+*.jpeg
+*.png
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Large files (optional, handled with Git LFS)
+video/
+*.mp4
+*.avi
+*.mov
